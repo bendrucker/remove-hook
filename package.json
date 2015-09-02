@@ -1,0 +1,36 @@
+{
+  "name": "remove-hook",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "virtual-dom hook for element remove",
+  "license": "MIT",
+  "repository": "bendrucker/remove-hook",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "virtual",
+    "dom",
+    "element",
+    "remove",
+    "hook"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "global": "~4.3.0",
+    "next-tick": "~0.2.2",
+    "virtual-hook": "~1.0.1"
+  }
+}
