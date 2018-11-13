@@ -1,4 +1,4 @@
-# remove-hook [![Build Status](https://travis-ci.org/bendrucker/remove-hook.svg?branch=master)](https://travis-ci.org/bendrucker/remove-hook)
+# remove-hook [![Build Status](https://travis-ci.org/bendrucker/remove-hook.svg?branch=master)](https://travis-ci.org/bendrucker/remove-hook) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/remove-hook.svg)](https://greenkeeper.io/)
 
 > virtual-dom hook for element remove
 
